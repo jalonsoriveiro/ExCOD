@@ -16,6 +16,7 @@ public class ExCOD1Av {
      */
     public static void main(String[] args) {
         System.out.println("hola ");
+        System.out.println("HOla com E");
     }
     
 }
